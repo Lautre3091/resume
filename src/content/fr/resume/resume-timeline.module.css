@@ -1,6 +1,6 @@
 .timeline {
     --timeline-width: 0.27rem;
-    --timeline-spacing-between: 2rem;
+    --timeline-spacing-between: 0,5rem;
     --timeline-spacing-inner: 1rem;
     --timeline-spacing-right: 2.5rem;
 
@@ -39,7 +39,7 @@
 }
 
 .timeline p {
-    margin-top: auto;
+    margin-top: 2rem;
 }
 
 .timeline p:first-child {
